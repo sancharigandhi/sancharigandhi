@@ -10,9 +10,11 @@ You can click the Preview link to take a look at your changes.
 
 ● A B.Tech (CSE) pre-final year student .👀
 
-● A Front-end Developer.👩🏽‍💻
+● I'm currently working on Front-end Web Development.👩🏽‍💻
 
 ● An open-source enthusiast.💜
+
+● I’m looking to collaborate on Web Development Projects👯 
 
 ● Loves to learn and explore new technologies.🌱
 

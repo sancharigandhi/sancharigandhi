@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
   <img align="left" alt="Sanchari Gandhi - LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
 </a>
 <a href="mailto:sancharigandhi474@gmail.com">
-  <img align="left" alt="Ritika Saha - Google Mail" width="40px" src="https://api.iconify.design/logos:google-gmail.svg"/>
+  <img align="left" alt="Sanchari Gandhi - Google Mail" width="40px" src="https://api.iconify.design/logos:google-gmail.svg"/>
 </a>
 <a href="https://www.instagram.com/sanchari_1708/">
   <img align="left" alt="Sanchari Gandhi - Instagram" width="40px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/>
